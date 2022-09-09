@@ -183,24 +183,3 @@ a {
     align-items: center;
     font-family: 'Source Code Pro', monospace;
 }
-.hundered{
-    width: 265px;
-    background-color: violet;
-}
-.fifty{
-    width: 125px;
-    background-color: aqua;
-}
-.t5{
-    width: 75px;
-    background-color: yellow;
-}
-@media (max-width:1275px){
-    *{
-        background-color: red;
-    }
-    .sidebar{
-        transform: translate(-443px 0);
-        position: absolute;
-    }
-}
